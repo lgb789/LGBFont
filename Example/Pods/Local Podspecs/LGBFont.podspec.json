@@ -1,0 +1,22 @@
+{
+  "name": "LGBFont",
+  "version": "0.1.0",
+  "summary": "A category of UIFont.",
+  "description": "A simple category of UIFont.",
+  "homepage": "https://github.com/lgb789/LGBFont",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lgb789": "lgb789@126.com"
+  },
+  "source": {
+    "git": "https://github.com/lgb789/LGBFont.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source_files": "LGBFont/Classes/**/*"
+}

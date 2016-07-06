@@ -4,7 +4,7 @@ target 'LGBFont_Example' do
   pod 'LGBFont', :path => '../'
 
   target 'LGBFont_Tests' do
-    inherit! :search_paths
+    pod 'LGBFont', :path => '../'
 
     
   end

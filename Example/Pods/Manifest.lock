@@ -1,0 +1,14 @@
+PODS:
+  - LGBFont (0.1.0)
+
+DEPENDENCIES:
+  - LGBFont (from `../`)
+
+EXTERNAL SOURCES:
+  LGBFont:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LGBFont: 0163d1a2e398c74813deac17a89cf6c4509b6a16
+
+COCOAPODS: 0.39.0
