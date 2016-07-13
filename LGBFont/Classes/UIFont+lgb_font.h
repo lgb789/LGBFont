@@ -12,6 +12,8 @@
 
 +(UIFont *)lgb_smallFont;
 
++(UIFont *)lgb_smallMediumFont;
+
 +(UIFont *)lgb_mediumFont;
 
 +(UIFont *)lgb_largeFont;

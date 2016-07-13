@@ -15,6 +15,11 @@
     return [UIFont systemFontOfSize:12.0f];
 }
 
++(UIFont *)lgb_smallMediumFont
+{
+    return [UIFont systemFontOfSize:14.0f];
+}
+
 +(UIFont *)lgb_mediumFont
 {
     return [UIFont systemFontOfSize:16.0f];
